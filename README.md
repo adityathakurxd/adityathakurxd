@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a 18 year old developer currently pursuing B.Tech CSE from SRM University, Delhi NCR.
-- 🌱 I’m currently learning Android Development using JAVA.
+- 🌱 I’m currently learning Android Development using Flutter.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with improving concepts of Data Structures and Algorithms.
 - 💬 Ask me about Java
