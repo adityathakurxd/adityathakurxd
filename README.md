@@ -8,4 +8,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adityathakurxd/) , [YouTube](https://www.youtube.com/zresthin)
 - 😄 ⚡ 
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd&theme=dark)](https://github.com/adityathakurxd)    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakurxd&layout=compact)](https://github.com/adityathakurxd)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd&theme=dark)](https://github.com/adityathakurxd)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakurxd&layout=compact)](https://github.com/adityathakurxd)
