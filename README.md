@@ -8,5 +8,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adityathakurxd/) , [YouTube](https://www.youtube.com/zresthin)
 - 😄 ⚡ 
 
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd)](https://github.com/adityathakurxd/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityathakurxd)](https://github.com/DenverCoder1/github-readme-streak-stats)
