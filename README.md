@@ -10,3 +10,5 @@
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd)](https://github.com/adityathakurxd/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakurxd)](https://github.com/adityathakurxd/github-readme-stats)
+
