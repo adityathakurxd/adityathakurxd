@@ -18,16 +18,3 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 
 He believes in adding value and giving back to the community and has a [YouTube Channel](https://www.youtube.com/zresthin) with over 3.2K subscribers and 6 Lakh+ views. 
 - 📫 Connect with him on [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)
-
-<center>
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adityathakurxd.adityathakurxd)
-</center>
-
-<details>
-  Statistics
-  
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd&theme=dark)](https://github.com/adityathakurxd)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakurxd&layout=compact)](https://github.com/adityathakurxd)
-</details>
