@@ -21,7 +21,7 @@ He believes in adding value and giving back to the community and has a [YouTube 
 
 <center>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adityathakurxd.adityathakurxd)
 </center>
 
 <details>
