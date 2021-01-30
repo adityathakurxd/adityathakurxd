@@ -1,13 +1,33 @@
-### Hi there 👋
+![Banner, Aditya Thakur](https://github.com/adityathakurxd/adityathakurxd/blob/master/Aditya%20Thakur%20(1).png)
 
-- 🔭 I’m a 18 year old developer currently pursuing B.Tech CSE from SRM University, Delhi NCR.
-- 🌱 I’m currently learning App Development using Flutter for both Android and iOS.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help to improve my concepts of Data Structures and Algorithms.
-- 💬 Ask me about Java
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adityathakurxd/) , [YouTube](https://www.youtube.com/zresthin)
-- 😄 ⚡ 
+Aditya is a 2nd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.
 
+
+> #### He is a **𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿** with experience in building Cross Platform Applications for Android, iOS and the Web.
+> 🗣️ He has delivered sessions on Flutter for:
+> - ⚡ Google CrowdSource
+> - ⚡ GirlScript Pathankot
+>
+>  Other than Flutter, Aditya is proficient in Java and Python.
+
+He has been an instructor for Object Oriented programming in Java for S.P.A.R.K.S Initiators.
+
+Aditya also regularly participates in Hackathons either as a participant or mentor. He has previously won at:
+- ✨ Hack The Mountains
+- ✨ Sunhacks
+
+He believes in adding value and giving back to the community and has a [YouTube Channel](https://www.youtube.com/zresthin) with over 3.2K subscribers and 6 Lakh+ views. 
+- 📫 Connect with him on [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)
+
+<center>
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</center>
+
+<details>
+  Statistics
+  
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityathakurxd&theme=dark)](https://github.com/adityathakurxd)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakurxd&layout=compact)](https://github.com/adityathakurxd)
+</details>
