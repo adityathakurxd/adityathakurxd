@@ -32,5 +32,10 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 He believes in adding value and giving back to the community and has a YouTube Channel with over 3.2K subscribers and 6 Lakh+ views. 
 </p>
 <hr>
+<p align="center">
+    <a href="https://github.com/adityathakurxd/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityathakurxd&show_icons=true&theme=dracula" />
+  </a>
+</p>
 
 
