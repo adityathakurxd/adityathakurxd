@@ -38,4 +38,4 @@ He believes in adding value and giving back to the community and has a YouTube C
   </a>
 </p>
 
-
+<a href="" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=adityathakurxd&color=blue" /></a>
