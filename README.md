@@ -1,6 +1,9 @@
 <p align="center">
 <img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/Aditya%20Thakur%20(1).png" width="1080px">
 </p>
+
+[![Stack Overflow](https://img.shields.io/badge/Aditya_Thakur-11690853?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11690853/aditya-thakur)
+
 <p align="center"><a href="https://www.linkedin.com/in/adityathakurxd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/adityathakurxd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://adityathakurxd.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/adityathakurxd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
@@ -39,3 +42,4 @@ He believes in adding value and giving back to the community and has a YouTube C
 </p>
 
 <a href="" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=adityathakurxd&color=blue" /> </a> <p align="right"> <a href="https://twitter.com/adityathakurxd" target="blank"><img src="https://img.shields.io/twitter/follow/adityathakurxd?logo=twitter&style=for-the-badge" alt="adityathakurxd" /></a> </p>
+
