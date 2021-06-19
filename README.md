@@ -37,7 +37,7 @@ He believes in adding value and giving back to the community and has a YouTube C
 <hr>
 <p align="center">
     <a href="https://github.com/adityathakurxd/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityathakurxd&show_icons=true&theme=dracula" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityathakurxd&theme=dracula" />
   </a>
 </p>
 
