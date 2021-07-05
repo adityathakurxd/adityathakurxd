@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 <hr>
-<p>Aditya is a 2nd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
+<p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
 <p>He is a 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building Cross Platform Applications for Android, iOS and the Web.</p>
 <p>🗣️ He has delivered sessions on Flutter for:
     <ul>
