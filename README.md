@@ -9,10 +9,17 @@
 <a href="https://discord.gg/mx5tjevvQd" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <hr>
+
 <p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
+
+<table>
+<tr>
+<td>
+
 <p>He is a 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building Cross Platform Applications for Android, iOS and the Web.</p>
 <p>🗣️ He has delivered sessions on Flutter for:
     <ul>
+    <li>⚡ Flutter Global Summit'21</li>
     <li>⚡ Google CrowdSource</li>
     <li>⚡ GirlScript Pathankot</li>
     <li>⚡ SidePath.in</li>
@@ -20,20 +27,29 @@
     <li>⚡ Innovators Quest (VIT Vellore)</li>
 </ul>
 </p>
-<p>
-Other than Flutter, Aditya is proficient in Java and Python. He has been an instructor for Object Oriented programming in Java for S.P.A.R.K.S Initiators.
-<br><br>
+Other than Flutter, Aditya is proficient in Java and Python. He has been an instructor for Object Oriented programming in Java for Newton School and S.P.A.R.K.S Initiators.
+    
+</td>
+<td>
+<img  src="https://user-images.githubusercontent.com/53579386/126982190-d242d446-c8bb-4716-ab11-5ed2d7079b47.jpg"  alt="Flutter Global Summit'21 Speaker">
+</td>
+</tr>
+</table>
+
+<br>
 Aditya also regularly participates in Hackathons either as a participant or mentor. He has previously won at:
 <br><br>
-🏆 Winner - IEEE Mandi 'Go Online' Challenge at Electrothon 3.0 by NIT Hamirpur.
+🏆 <b>Winner</b> - IEEE Mandi 'Go Online' Challenge at Electrothon 3.0 by NIT Hamirpur.
 <br>
 <ul>
     <li>✨ Hack The Mountains (Top 10)</li>
     <li>✨ ApScript (Finalist)</li>
     <li>✨ Nimbus Xplore'21 (Finalist)</li>
 </ul>
+<b>Mentor</b> at Hack the Mountains 2.0
+<hr>
 <br>
-He believes in adding value and giving back to the community and has a YouTube Channel with over 3.2K subscribers and 6 Lakh+ views. 
+He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
 </p>
 <hr>
 <p align="center">
