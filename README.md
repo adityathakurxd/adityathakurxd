@@ -30,7 +30,7 @@ Other than Flutter, Aditya is proficient in Java and Python. He has been an inst
     
 </td>
 <td>
-<img  src="https://user-images.githubusercontent.com/53579386/126982190-d242d446-c8bb-4716-ab11-5ed2d7079b47.jpg"  alt="Flutter Global Summit'21 Speaker">
+<img src="https://user-images.githubusercontent.com/53579386/126982190-d242d446-c8bb-4716-ab11-5ed2d7079b47.jpg"  alt="Flutter Global Summit'21 Speaker">
 </td>
 </tr>
 </table>
