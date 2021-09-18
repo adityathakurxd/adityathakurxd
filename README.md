@@ -8,7 +8,6 @@
 <a href="https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://discord.gg/mx5tjevvQd" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-<hr>
 
 <p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
 
@@ -74,9 +73,6 @@ He believes in adding value and giving back to the community and has a <b>YouTub
         <tr>
             <td>
                 <a href="" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=adityathakurxd&color=blue" /> </a> 
-            </td>
-            <td>
-                <a href="https://twitter.com/adityathakurxd" target="blank"><img src="https://img.shields.io/twitter/follow/adityathakurxd?logo=twitter&style=for-the-badge" alt="adityathakurxd" /></a>
             </td>
         </tr>
     </table>
