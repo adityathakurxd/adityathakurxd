@@ -36,6 +36,18 @@ Other than Flutter, Aditya is proficient in Java and Python. He has been an inst
 </tr>
 </table>
 
+<p align="center">
+  <a href="http://twitter.com/adityathakurxd">
+    <img src="https://img.shields.io/twitter/follow/adityathakurxd?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/mx5tjevvQd">
+    <img src="https://img.shields.io/discord/768695045259264011?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+  <a href="http://youtube.com/adityathakurxd?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UChCAJNpMwoEUYCsE_eSyU4w?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  </a>
+</p>
+
 <br>
 Aditya also regularly participates in Hackathons either as a participant or mentor. He has previously won at:
 <br><br>
