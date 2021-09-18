@@ -24,6 +24,10 @@
     <li>⚡ SidePath.in</li>
     <li>⚡ LEADHERS of WAP</li>
     <li>⚡ Innovators Quest (VIT Vellore)</li>
+    <li>⚡ Interrupt'21, Technical Symposium</li>
+    <li>⚡ Eduhub Community</li>
+    <li>⚡ Devs' Street</li>
+    <li>⚡ IEEE APSIT and IEEE SFIT Student Branch</li>
 </ul>
 </p>
 Other than Flutter, Aditya is proficient in Java and Python. He has been an instructor for Object Oriented programming in Java for Newton School and S.P.A.R.K.S Initiators.
@@ -57,7 +61,7 @@ Aditya also regularly participates in Hackathons either as a participant or ment
     <li>✨ ApScript (Finalist)</li>
     <li>✨ Nimbus Xplore'21 (Finalist)</li>
 </ul>
-<b>Mentor</b> at Hack the Mountains 2.0
+<b>Mentor</b> at Hack the Mountains 2.0, Resonate (SRMIST, KTR)
 <hr>
 <br>
 He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
