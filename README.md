@@ -40,13 +40,13 @@ Other than Flutter, Aditya is proficient in Java and Python. He has been an inst
 </table>
 
 <p align="center">
-  <a href="http://twitter.com/adityathakurxd">
+  <a href="https://twitter.com/adityathakurxd">
     <img src="https://img.shields.io/twitter/follow/adityathakurxd?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://discord.com/invite/mx5tjevvQd">
     <img src="https://img.shields.io/discord/768695045259264011?logo=discord&style=for-the-badge&color=blue" />
   </a>
-  <a href="http://youtube.com/adityathakurxd?sub_confirmation=1">
+  <a href="https://youtube.com/adityathakurxd?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UChCAJNpMwoEUYCsE_eSyU4w?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
   </a>
 </p>
@@ -72,11 +72,3 @@ He believes in adding value and giving back to the community and has a <b>YouTub
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityathakurxd&theme=dracula" />
   </a>
 </p>
-
-<table border='0'>
-        <tr>
-            <td>
-                <a href="" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=adityathakurxd&color=blue" /> </a> 
-            </td>
-        </tr>
-    </table>
