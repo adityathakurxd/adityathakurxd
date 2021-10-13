@@ -63,9 +63,21 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 </ul>
 <b>Mentor</b> at Hack the Mountains 2.0, Resonate (SRMIST, KTR)
 <hr>
-<br>
-He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
 </p>
+
+### Open Source Contributor
+Contributor https://github.com/fluttercommunity/plus_plugins
+
+### Medium Articles
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/0" alt="Recent Article 0"> </a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/2" alt="Recent Article 2"> </a>
+
+
+<hr>
+He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
+
 <hr>
 <p align="center">
     <a href="https://github.com/adityathakurxd/">
