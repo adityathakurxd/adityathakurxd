@@ -66,14 +66,36 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 </p>
 
 ### Open Source Contributor
-Contributor https://github.com/fluttercommunity/plus_plugins
-
-### Medium Articles
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/0" alt="Recent Article 0"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityathakurxd/2" alt="Recent Article 2"> </a>
-
+<table>
+<tr>
+<td>
+        
+<a href="https://github.com/fluttercommunity/plus_plugins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluttercommunity&repo=plus_plugins&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+    
+</td>
+<td>
+    <a href="https://github.com/shryesth/Aadhar-Address-Update">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shryesth&repo=Aadhar-Address-Update&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+</td>
+</tr>
+<tr>
+<td>
+        
+<a href="https://github.com/ibhavikmakwana/supabase_playground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibhavikmakwana&repo=supabase_playground&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+    
+</td>
+<td>
+    <a href="https://github.com/smaranjitghose/Upcharika">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smaranjitghose&repo=Upcharika&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+</td>
+</tr>
+</table>
 
 <hr>
 He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
