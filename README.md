@@ -8,7 +8,7 @@
 [![Twitter: Aditya Thakur](https://img.shields.io/twitter/follow/adityathakurxd?style=social)](https://twitter.com/adityathakurxd)
 [![Medium Badge](https://img.shields.io/badge/-@Aditya%20Thakur-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@adityathakurxd)](https://medium.com/@adityathakurxd)
 [![Discord](https://img.shields.io/badge/-Team%20Aditya-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&link=https://discord.gg/mx5tjevvQd)](https://discord.gg/mx5tjevvQd)
-[![YouTube](https://img.shields.io/badge/-Aditya%20Thakur-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&link=https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
+[![YouTube](https://img.shields.io/youtube/channel/views/UChCAJNpMwoEUYCsE_eSyU4w?style=social)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
 
 <p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
 
