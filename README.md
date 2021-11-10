@@ -2,12 +2,14 @@
 <img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/Aditya%20Thakur%20(1).png" width="1080px">
 </p>
 
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/adityathakurxd?label=follow&style=social)](https://github.com/adityathakurxd)
 [![Stack Overflow](https://img.shields.io/badge/Aditya_Thakur-11690853?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11690853/aditya-thakur)
-
-<p align="center"><a href="https://www.linkedin.com/in/adityathakurxd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/adityathakurxd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://adityathakurxd.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/adityathakurxd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://discord.gg/mx5tjevvQd" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+[![Linkedin: Aditya Thakur](https://img.shields.io/badge/-Aditya%20Thakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityathakurxd/)](https://www.linkedin.com/in/adityathakurxd/)
+[![Twitter: Aditya Thakur](https://img.shields.io/twitter/follow/adityathakurxd?style=social)](https://twitter.com/adityathakurxd)
+[![Medium Badge](https://img.shields.io/badge/-@Aditya%20Thakur-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@adityathakurxd)](https://medium.com/@adityathakurxd)
+[![Discord](https://img.shields.io/badge/-Team%20Aditya-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&link=https://discord.gg/mx5tjevvQd)](https://discord.gg/mx5tjevvQd)
+[![YouTube](https://img.shields.io/badge/-Aditya%20Thakur-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&link=https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
+[![YouTube](https://img.shields.io/youtube/channel/views/UChCAJNpMwoEUYCsE_eSyU4w?style=social)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
 
 <p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
 
