@@ -2,7 +2,7 @@
 <img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/Aditya%20Thakur%20(1).png" width="1080px">
 </p>
 
-[![GitHub vermakhushboo](https://img.shields.io/github/followers/adityathakurxd?label=follow&style=social)](https://github.com/adityathakurxd)
+[![GitHub](https://img.shields.io/github/followers/adityathakurxd?label=follow&style=social)](https://github.com/adityathakurxd)
 [![Stack Overflow](https://img.shields.io/badge/Aditya_Thakur-11690853?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11690853/aditya-thakur)
 [![Linkedin: Aditya Thakur](https://img.shields.io/badge/-Aditya%20Thakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityathakurxd/)](https://www.linkedin.com/in/adityathakurxd/)
 [![Twitter: Aditya Thakur](https://img.shields.io/twitter/follow/adityathakurxd?style=social)](https://twitter.com/adityathakurxd)
