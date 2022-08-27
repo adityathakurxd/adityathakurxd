@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/Aditya%20Thakur%20(1).png" width="1080px">
+<img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/banner.png" width="1080px">
 </p>
 
 [![GitHub](https://img.shields.io/github/followers/adityathakurxd?label=follow&style=social)](https://github.com/adityathakurxd)
@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/-Team%20Aditya-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&link=https://discord.gg/mx5tjevvQd)](https://discord.gg/mx5tjevvQd)
 [![YouTube](https://img.shields.io/youtube/channel/views/UChCAJNpMwoEUYCsE_eSyU4w?style=social)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
 
-<p>Aditya is a 3rd Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
+<p>Aditya is a 4th Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
 
 <table>
 <tr>
@@ -102,8 +102,4 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
 
 <hr>
-<p align="center">
-    <a href="https://github.com/adityathakurxd/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=adityathakurxd&theme=dracula" />
-  </a>
-</p>
+
