@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/banner.png" width="1080px">
+<img alt="Banner Image" src="https://github.com/adityathakurxd/adityathakurxd/blob/master/bannerimg.png" width="1080px">
 </p>
 
 [![GitHub](https://img.shields.io/github/followers/adityathakurxd?label=follow&style=social)](https://github.com/adityathakurxd)
