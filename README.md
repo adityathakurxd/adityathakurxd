@@ -66,7 +66,13 @@ Aditya also regularly participates in Hackathons either as a participant or ment
 <hr>
 </p>
 
-### Open Source Contributor
+### Open Source Contributions
+I like to actively contribute to open-source projects. Some of my major contribution include:
+- [Migrate from deprecated pedantic to flutter_lints ](https://github.com/fluttercommunity/plus_plugins/pull/519) [Flutter Community Plus Plugins]
+- [Add Hindi localization language support](https://github.com/firebase/flutterfire/pull/7778) [FlutterFire]
+
+I have also worked on projects like [Upcharika](https://github.com/smaranjitghose/Upcharika) (a unique flutter application aimed at helping people getting their vitals using Photoplethysmography and Computer Vision), [Supabase Playground](https://github.com/ibhavikmakwana/supabase_playground) (open source social media app), etc.
+
 <table>
 <tr>
 <td>
