@@ -10,32 +10,34 @@
 [![Discord](https://img.shields.io/badge/-Team%20Aditya-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&link=https://discord.gg/mx5tjevvQd)](https://discord.gg/mx5tjevvQd)
 [![YouTube](https://img.shields.io/youtube/channel/views/UChCAJNpMwoEUYCsE_eSyU4w?style=social)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
 
-<p>Aditya is a 4th Year student at SRM University, Delhi NCR, Sonepat currently pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence.</p>
+### Hi 👋 I am Aditya Thakur
+<p>I am currently in 4th Year at SRM University, Delhi NCR, Sonepat (pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence) and also working as a Developer Advocate Intern at <a href="https://github.com/100mslive">@100mslive<a></p>
 
 <table>
 <tr>
 <td>
 
-<p>He is a 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building Cross Platform Applications for Android, iOS and the Web.</p>
-<p>🗣️ He has delivered sessions on Flutter for:
+<p>I am a 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building cross-platform applications for Android, iOS and the Web.</p>
+<p>🗣️ Previously, I have delivered sessions on Flutter for:
     <ul>
-    <li>⚡ Flutter Global Summit'21</li>
-    <li>⚡ Google CrowdSource</li>
-    <li>⚡ GirlScript Pathankot</li>
-    <li>⚡ SidePath.in</li>
-    <li>⚡ LEADHERS of WAP</li>
-    <li>⚡ Innovators Quest (VIT Vellore)</li>
+    <li>⚡ Flutter Global Summit'23 (Senior Track)</li>
+    <li>⚡ Flutter Vikings'22 (Online Edition)</li>
+    <li>⚡ Flutter Global Summit'21 (Junior Track)</li>
+    <li>⚡ Google I/O Extended - New Delhi</li>
+    <li>⚡ Dash's Day Out - Flutter Delhi</li>
+    <li>⚡ DevFest Kolkata</li>
     <li>⚡ Interrupt'21, Technical Symposium</li>
     <li>⚡ Eduhub Community</li>
     <li>⚡ Devs' Street</li>
     <li>⚡ IEEE APSIT and IEEE SFIT Student Branch</li>
 </ul>
 </p>
-Other than Flutter, Aditya is proficient in Java and Python. He has been an instructor for Object Oriented programming in Java for Newton School and S.P.A.R.K.S Initiators.
+Other than Flutter, I am proficient in Java and Python and have been an instructor for Object Oriented programming in Java for Newton School and S.P.A.R.K.S Initiators.
     
 </td>
 <td>
-<img src="https://user-images.githubusercontent.com/53579386/126982190-d242d446-c8bb-4716-ab11-5ed2d7079b47.jpg"  alt="Flutter Global Summit'21 Speaker">
+
+<img src="https://user-images.githubusercontent.com/53579386/221858168-a60077da-4200-4dc6-b87b-3d9944cbbdad.jpeg"  alt="Flutter Conference India - Volunteer">
 </td>
 </tr>
 </table>
@@ -53,16 +55,18 @@ Other than Flutter, Aditya is proficient in Java and Python. He has been an inst
 </p>
 
 <br>
-Aditya also regularly participates in Hackathons either as a participant or mentor. He has previously won at:
+I also participate in Hackathons either as a participant, a mentor and (quite recently) as a Judge. I have previously won at:
 <br><br>
 🏆 <b>Winner</b> - IEEE Mandi 'Go Online' Challenge at Electrothon 3.0 by NIT Hamirpur.
 <br>
 <ul>
-    <li>✨ Hack The Mountains (Top 10)</li>
+    <li>✨ Hack The Mountains 1.0 (Top 10)</li>
     <li>✨ ApScript (Finalist)</li>
     <li>✨ Nimbus Xplore'21 (Finalist)</li>
 </ul>
 <b>Mentor</b> at Hack the Mountains 2.0, Resonate (SRMIST, KTR)
+<br>
+<b>Judge</b> at Hack the Mountains 3.0, TechWeek (IEEE NSUT, Delhi)
 <hr>
 </p>
 
@@ -105,7 +109,7 @@ I have also worked on projects like [Upcharika](https://github.com/smaranjitghos
 </table>
 
 <hr>
-He believes in adding value and giving back to the community and has a <b>YouTube Channel</b> with over 4K subscribers and 6 Lakh+ views. And, a <b>Discord Community</b> with around 300 developers.
+My goal is to add value and give back to the community and I also create content on my <b>YouTube Channel</b> which currently has around 10K subscribers and 2.1 Million+ views. And, I manage a <b>Discord Community</b> for developers (majorly working with Flutter) with around 1600+ developers in it.
 
 <hr>
 
