@@ -72,8 +72,9 @@ I also participate in Hackathons either as a participant, a mentor and (quite re
 
 ### Open Source Contributions
 I like to actively contribute to open-source projects. Some of my major contribution include:
-- [Migrate from deprecated pedantic to flutter_lints ](https://github.com/fluttercommunity/plus_plugins/pull/519) [Flutter Community Plus Plugins]
+- [Fix ShaderMask Example issue](https://github.com/flutter/flutter/pull/124511) [Flutter Official repository]
 - [Add Hindi localization language support](https://github.com/firebase/flutterfire/pull/7778) [FlutterFire]
+- [Migrate from deprecated pedantic to flutter_lints](https://github.com/fluttercommunity/plus_plugins/pull/519) [Flutter Community Plus Plugins]
 
 I have also worked on projects like [Upcharika](https://github.com/smaranjitghose/Upcharika) (a unique flutter application aimed at helping people getting their vitals using Photoplethysmography and Computer Vision), [Supabase Playground](https://github.com/ibhavikmakwana/supabase_playground) (open source social media app), etc.
 
