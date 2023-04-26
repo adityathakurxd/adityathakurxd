@@ -72,7 +72,7 @@ I also participate in Hackathons either as a participant, a mentor and (quite re
 
 ### Open Source Contributions
 I like to actively contribute to open-source projects. Some of my major contribution include:
-- [Fix ShaderMask Example issue](https://github.com/flutter/flutter/pull/124511) [Flutter Official repository]
+- [Fix ShaderMask Example issue](https://github.com/flutter/flutter/pull/124511) [Flutter Official repository, Featured in [Notable Commits](https://github.com/flutter/flutter/issues/121415#:~:text=Fix%20ShaderMask%20Example%20issue)]
 - [Add Hindi localization language support](https://github.com/firebase/flutterfire/pull/7778) [FlutterFire]
 - [Migrate from deprecated pedantic to flutter_lints](https://github.com/fluttercommunity/plus_plugins/pull/519) [Flutter Community Plus Plugins]
 
