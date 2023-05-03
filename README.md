@@ -111,6 +111,9 @@ I have also worked on projects like [Upcharika](https://github.com/smaranjitghos
 
 <hr>
 My goal is to add value and give back to the community and I also create content on my <b>YouTube Channel</b> which currently has around 10K subscribers and 2.1 Million+ views. And, I manage a <b>Discord Community</b> for developers (majorly working with Flutter) with around 1600+ developers in it.
+<hr>
+
+Learn more about Aditya Thakur: https://adityathakur.in/aditya-thakur
 
 <hr>
 
