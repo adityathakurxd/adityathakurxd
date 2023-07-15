@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/views/UChCAJNpMwoEUYCsE_eSyU4w?style=social)](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w)
 
 ### Hi 👋 I am Aditya Thakur
-<p>I am currently in 4th Year at SRM University, Delhi NCR, Sonepat (pursuing a degree in Computer Science and Engineering with specialization in Data Science and Artificial Intelligence) and also working as a Developer Advocate Intern at <a href="https://github.com/100mslive">@100mslive<a></p>
+<p>Developer Advocate Intern at <a href="https://github.com/100mslive">@100mslive<a></p>
 
 <table>
 <tr>
